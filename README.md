@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dangerous6
-- 👀 I’m interested in code
+- 👀 I’m interested in linux kernel, dpdk, network.
 - 🌱 I’m currently learning English 
 - 💞️ I’m looking to collaborate on c.rust
-- 📫 How to reach me ...
+- 📫 How to reach me liumingyue.lxy.gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
